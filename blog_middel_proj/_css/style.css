@@ -1,0 +1,64 @@
+.min-h750 {
+  min-height: 750px;
+}
+
+.min-h100 {
+  min-height: 10px;
+  background-color: rgb(117, 158, 170);
+
+}
+
+.parag-news {
+  font-size: 1em;
+  border-bottom: 2px solid #000;
+  width: 160px;
+  height: 10px;
+
+}
+
+.h4 {
+  font-size: 2em;
+}
+
+.sub-text {
+  color: rgb(115, 174, 182);
+}
+
+.middel-bage {
+  background-color: #f2f2f2;
+}
+
+.card-bg {
+  background-color: rgba(151, 207, 214, 0.856);
+
+}
+
+.color-nav {
+  background-color: #1F5B73;
+}
+
+
+.color-general {
+  background: #1BAFBF;
+
+}
+
+.color-text {
+  background: #393D40;
+
+}
+
+.color-white {
+  background: #F2F2F2;
+
+}
+
+.color-black {
+  background: #222326;
+
+}
+
+.dropdown-toggle-no-arrow::after {
+  display: none;
+}
+
